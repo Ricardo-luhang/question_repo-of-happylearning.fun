@@ -19,4 +19,4 @@
 ![](https://i.imgur.com/z8OEmk3.png)
 
 (6)个人中心
-![](https://i.imgur.com/nAzn2nB.png)
+![](https://i.imgur.com/s4MjkcQ.png)
