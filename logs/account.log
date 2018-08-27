@@ -1,0 +1,268 @@
+2018-08-10 16:35:40,502 [Thread-200:4772] [account:39] [views:post] [ERROR]- luhang登录失败
+2018-08-10 16:36:42,409 [Thread-205:1964] [account:39] [views:post] [ERROR]- tiku登录失败
+2018-08-10 16:37:05,051 [Thread-210:1976] [account:39] [views:post] [ERROR]- tiku登录失败
+2018-08-10 16:50:01,159 [Thread-8:4556] [account:34] [views:post] [ERROR]- luhang登录成功
+2018-08-10 16:58:59,927 [Thread-50:2016] [account:48] [views:get] [DEBUG]- 退出系统!
+2018-08-12 19:27:28,116 [Thread-33:7480] [account:34] [views:post] [ERROR]- luhang登录成功
+2018-08-13 09:49:34,891 [Thread-45:5396] [account:90] [views:get] [DEBUG]- 退出系统!
+2018-08-14 14:56:54,603 [Thread-60:5644] [account:76] [views:post] [ERROR]- luhang登录成功
+2018-08-15 09:10:54,333 [Thread-72:7156] [account:90] [views:get] [DEBUG]- 退出系统!
+2018-08-15 09:25:50,116 [Thread-157:7700] [account:90] [views:get] [DEBUG]- 退出系统!
+2018-08-15 09:26:03,530 [Thread-162:1052] [account:81] [views:post] [ERROR]- tiku登录失败
+2018-08-15 09:26:20,683 [Thread-165:5428] [account:81] [views:post] [ERROR]- tiku登录失败
+2018-08-15 09:27:02,508 [Thread-168:7300] [account:81] [views:post] [ERROR]- tiku登录失败
+2018-08-15 09:28:57,212 [Thread-1:7916] [account:81] [views:post] [ERROR]- tiku登录失败
+2018-08-16 08:35:00,443 [Thread-36:4384] [account:116] [views:get] [DEBUG]- 退出系统!
+2018-08-16 08:39:28,578 [Thread-191:5192] [account:116] [views:get] [DEBUG]- 退出系统!
+2018-08-16 11:03:34,202 [Thread-14:7696] [account:116] [views:get] [DEBUG]- AnonymousUser退出系统!
+2018-08-24 14:41:42,233 [Thread-152:6220] [account:104] [views:post] [ERROR]- luhang 登录成功
+2018-08-24 14:47:19,079 [Thread-3:1920] [account:119] [views:get] [DEBUG]- 退出系统!
+2018-08-24 15:21:22,850 [Thread-7:9320] [account:105] [views:post] [ERROR]- luhang登录成功
+2018-08-24 15:41:26,830 [Thread-54:5268] [account:119] [views:get] [DEBUG]- 退出系统!
+2018-08-24 15:41:38,448 [Thread-59:8344] [account:110] [views:post] [ERROR]- tiku登录失败
+2018-08-24 15:41:53,476 [Thread-62:5244] [account:110] [views:post] [ERROR]- tiku登录失败
+2018-08-24 16:00:10,372 [Thread-1:6000] [account:119] [views:get] [DEBUG]- 退出系统!
+2018-08-24 16:00:23,368 [Thread-6:2272] [account:113] [views:post] [ERROR]- luhang验证码错误
+2018-08-24 16:00:56,343 [Thread-1:8668] [account:113] [views:post] [ERROR]- luhang验证码错误
+2018-08-24 16:01:11,368 [Thread-8:8400] [account:113] [views:post] [ERROR]- luhang验证码错误
+2018-08-24 16:13:33,198 [Thread-1:8024] [account:105] [views:post] [ERROR]- tiku登录成功
+2018-08-27 09:52:08,401 [Thread-16:8868] [account:113] [views:get] [DEBUG]- 退出系统!
+2018-08-27 10:08:23,645 [Thread-27:9076] [account:107] [views:post] [ERROR]- luhang验证码错误
+2018-08-27 10:09:20,250 [Thread-30:7856] [account:107] [views:post] [ERROR]- luhang验证码错误
+2018-08-27 10:09:55,172 [Thread-34:8272] [account:99] [views:post] [ERROR]- luhang登录成功
+2018-08-27 10:15:15,390 [Thread-37:8772] [account:113] [views:get] [DEBUG]- 退出系统!
+2018-08-27 10:42:36,299 [Thread-49:7328] [account:107] [views:post] [ERROR]- tiku验证码错误
+2018-08-27 10:42:52,731 [Thread-53:8432] [account:99] [views:post] [ERROR]- tiku登录成功
+2018-08-27 10:50:48,730 [Thread-55:8396] [account:113] [views:get] [DEBUG]- 退出系统!
+2018-08-27 10:51:03,100 [Thread-59:7864] [account:99] [views:post] [ERROR]- luhang登录成功
+2018-08-27 10:58:29,794 [Thread-61:6256] [account:113] [views:get] [DEBUG]- 退出系统!
+2018-08-27 10:58:44,888 [Thread-65:7888] [account:99] [views:post] [ERROR]- tiku登录成功
+2018-08-27 11:30:07,236 [Thread-8:4220] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:30:08,898 [Thread-9:8864] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:30:11,097 [Thread-10:6248] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:30:11,473 [Thread-11:7720] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:30:11,678 [Thread-12:7820] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:30:11,879 [Thread-13:5428] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:30:12,056 [Thread-14:9068] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:30:12,231 [Thread-15:8184] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:30:17,642 [Thread-16:7140] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:30:19,013 [Thread-17:5848] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:30:19,739 [Thread-18:7372] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:30:20,495 [Thread-19:7180] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:30:21,046 [Thread-20:4400] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:34:32,465 [Thread-22:7148] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:34:33,445 [Thread-23:8180] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:34:34,104 [Thread-24:5660] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:34:34,644 [Thread-25:8464] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:34:35,028 [Thread-26:6332] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:34:35,321 [Thread-27:7864] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:34:35,485 [Thread-28:8432] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:34:35,663 [Thread-29:6512] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:34:35,822 [Thread-30:7492] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:34:40,364 [Thread-31:5804] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:34:41,006 [Thread-32:8140] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:37:05,040 [Thread-3:4944] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:37:06,102 [Thread-4:5476] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:37:06,582 [Thread-5:6636] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:37:06,816 [Thread-6:8544] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:37:06,988 [Thread-7:8216] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:37:07,329 [Thread-8:6868] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:37:07,508 [Thread-9:7392] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:37:11,227 [Thread-10:7912] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:37:11,811 [Thread-11:5860] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:37:23,477 [Thread-12:2800] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:38:51,571 [Thread-3:6084] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:38:52,834 [Thread-4:8304] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:38:53,553 [Thread-5:8880] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:38:53,833 [Thread-6:7544] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:38:54,010 [Thread-7:8716] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:38:54,177 [Thread-8:6688] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:38:54,338 [Thread-9:8524] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:38:54,513 [Thread-10:8468] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:41:48,515 [Thread-3:5796] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:41:49,791 [Thread-4:6660] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:41:50,324 [Thread-5:7668] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:41:50,802 [Thread-6:8972] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:41:51,144 [Thread-7:3128] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:41:51,323 [Thread-8:2120] [account:76] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:49:42,794 [Thread-3:5584] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:49:43,957 [Thread-4:7936] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:49:45,021 [Thread-5:8636] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:49:45,293 [Thread-6:8440] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:49:45,482 [Thread-7:9176] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:49:45,637 [Thread-8:8740] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:49:45,836 [Thread-9:4844] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:50:18,190 [Thread-10:7096] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:50:18,567 [Thread-11:7992] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:50:18,821 [Thread-12:8844] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:50:18,974 [Thread-13:6196] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:52:00,325 [Thread-15:7864] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:52:01,099 [Thread-16:6332] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:52:01,516 [Thread-17:5660] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:52:01,717 [Thread-18:6984] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:52:01,899 [Thread-19:2952] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:55:27,307 [Thread-3:7008] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:55:28,013 [Thread-4:7428] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:55:28,555 [Thread-5:8360] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:55:28,940 [Thread-6:480] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:55:29,213 [Thread-7:7816] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:55:29,595 [Thread-8:8004] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:55:30,058 [Thread-9:8528] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:55:30,397 [Thread-10:7172] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:55:30,765 [Thread-11:6572] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:55:46,257 [Thread-1:8828] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:59:15,929 [Thread-61:6888] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 11:59:17,014 [Thread-62:6372] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:00:01,426 [Thread-63:7268] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:00:01,806 [Thread-64:5688] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:00:02,001 [Thread-65:5212] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:02:35,547 [Thread-4:7588] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:02:36,343 [Thread-5:8976] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:02:36,496 [Thread-6:9172] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:02:36,663 [Thread-7:4700] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:02:36,800 [Thread-8:6164] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:08:57,855 [Thread-3:5948] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:08:58,832 [Thread-4:5748] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:09:13,743 [Thread-5:4204] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:09:14,148 [Thread-6:5248] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:09:14,316 [Thread-7:7616] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:09:14,476 [Thread-8:8128] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:09:14,644 [Thread-9:8948] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:09:14,809 [Thread-10:9100] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:09:14,975 [Thread-11:5164] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:09:15,124 [Thread-12:7828] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:09:15,293 [Thread-13:6244] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:09:15,438 [Thread-14:5556] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:09:30,502 [Thread-15:8664] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:09:30,681 [Thread-16:7176] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:09:31,972 [Thread-1:4844] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:10:00,921 [Thread-3:2320] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:10:20,343 [Thread-4:4828] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:10:20,528 [Thread-5:6700] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:10:32,857 [Thread-1:8524] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:10:33,029 [Thread-3:7988] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:10:33,196 [Thread-4:8912] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:10:33,358 [Thread-5:5864] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:10:33,509 [Thread-6:4328] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:10:33,672 [Thread-7:5624] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:10:33,843 [Thread-8:8724] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:10:34,005 [Thread-9:7452] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:11:20,640 [Thread-1:6720] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:11:20,864 [Thread-3:7668] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:11:20,878 [Thread-4:8412] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:11:20,982 [Thread-5:5828] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:12:15,902 [Thread-8:8828] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:12:16,523 [Thread-9:9072] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:12:16,907 [Thread-10:5796] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:12:17,080 [Thread-11:7996] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:12:17,292 [Thread-12:8148] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:12:17,479 [Thread-13:948] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:12:17,628 [Thread-14:8596] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:12:17,795 [Thread-15:4636] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:12:30,968 [Thread-1:7100] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:12:31,128 [Thread-3:7192] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:12:31,283 [Thread-4:7248] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:12:54,858 [Thread-1:4956] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:12:54,983 [Thread-3:5664] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:12:55,063 [Thread-4:5496] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:12:55,264 [Thread-5:9132] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:14:25,123 [Thread-8:3652] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:14:25,742 [Thread-9:6324] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:14:26,194 [Thread-10:7300] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:14:26,675 [Thread-11:6708] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:14:27,059 [Thread-12:8296] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:14:27,450 [Thread-13:8880] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:14:27,985 [Thread-14:6644] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:14:28,347 [Thread-15:4412] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:14:28,601 [Thread-16:6072] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], '__all__': ['两次密码不一致']}}
+2018-08-27 12:15:07,653 [Thread-1:7412] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:15:08,637 [Thread-3:2908] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:15:09,428 [Thread-4:7256] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:15:09,959 [Thread-5:8964] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:15:47,484 [Thread-6:8356] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:15:48,328 [Thread-7:8664] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:15:48,781 [Thread-8:7176] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:15:49,090 [Thread-9:8564] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:15:49,291 [Thread-10:9120] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:15:49,474 [Thread-11:5896] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:15:49,643 [Thread-12:8132] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:15:50,363 [Thread-13:5332] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:15:50,995 [Thread-14:5224] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:15:51,187 [Thread-15:8108] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:17:07,382 [Thread-19:8312] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:17:08,194 [Thread-20:8416] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:17:08,843 [Thread-21:6876] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:17:09,078 [Thread-22:8492] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:17:09,265 [Thread-23:4828] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:17:09,421 [Thread-24:6700] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 12:17:09,570 [Thread-25:8032] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 14:04:07,268 [Thread-34:5636] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 14:04:15,673 [Thread-35:6820] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 14:05:10,657 [Thread-37:3128] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 14:05:12,904 [Thread-38:6464] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 14:08:38,314 [Thread-3:6812] [account:81] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 14:08:39,147 [Thread-4:7996] [account:81] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 14:08:39,935 [Thread-5:8640] [account:81] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 14:08:40,151 [Thread-6:5104] [account:81] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 14:10:00,392 [Thread-1:8648] [account:81] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 14:11:26,849 [Thread-4:7668] [account:81] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 14:11:28,088 [Thread-5:6084] [account:81] [views:post] [DEBUG]- 用户注册结果：{'status': 401, 'msg': '验证码错误或过期'}
+2018-08-27 14:14:21,330 [Thread-3:6156] [account:65] [views:post] [DEBUG]- 新用户注册成功！
+2018-08-27 14:14:21,403 [Thread-3:6156] [account:69] [views:post] [DEBUG]- 新用户登录成功
+2018-08-27 14:14:21,404 [Thread-3:6156] [account:80] [views:post] [DEBUG]- 用户注册结果：{'status': 200, 'msg': '注册成功'}
+2018-08-27 14:24:55,381 [Thread-13:6868] [account:82] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册']}}
+2018-08-27 14:24:59,792 [Thread-14:1896] [account:82] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册']}}
+2018-08-27 14:25:01,606 [Thread-15:7568] [account:82] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册']}}
+2018-08-27 14:25:05,409 [Thread-16:8432] [account:82] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册']}}
+2018-08-27 14:25:07,953 [Thread-17:6696] [account:82] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册']}}
+2018-08-27 14:28:21,023 [Thread-22:4052] [account:82] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册']}}
+2018-08-27 14:31:43,816 [Thread-7:4636] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册']}}
+2018-08-27 14:31:51,573 [Thread-8:2468] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册']}}
+2018-08-27 14:31:51,922 [Thread-9:4200] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册']}}
+2018-08-27 14:31:52,105 [Thread-10:6476] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册']}}
+2018-08-27 14:31:52,299 [Thread-11:3132] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册']}}
+2018-08-27 14:31:52,463 [Thread-12:7620] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册']}}
+2018-08-27 14:31:52,629 [Thread-13:2760] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册']}}
+2018-08-27 14:31:52,799 [Thread-14:5640] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册']}}
+2018-08-27 14:31:53,097 [Thread-15:4488] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册']}}
+2018-08-27 14:31:53,279 [Thread-16:3404] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册']}}
+2018-08-27 14:31:53,450 [Thread-17:8632] [account:79] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册']}}
+2018-08-27 15:02:55,573 [Thread-9:4624] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:02:56,468 [Thread-10:5224] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:02:57,000 [Thread-11:5248] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:07:43,521 [Thread-38:6432] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册'], 'password': ['密码不能全是数字'], 'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:09:35,594 [Thread-40:1168] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册'], 'password': ['密码不能全是数字'], 'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:10:22,951 [Thread-41:7344] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册'], 'password': ['密码不能全是数字'], 'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:10:29,399 [Thread-42:8888] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册'], 'password': ['密码不能全是数字'], 'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:10:30,852 [Thread-43:5948] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册'], 'password': ['密码不能全是数字'], 'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:10:40,855 [Thread-44:4636] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], 'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:10:44,185 [Thread-45:2588] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], 'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:12:48,078 [Thread-46:7008] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], 'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:13:08,978 [Thread-53:8664] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], 'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:13:10,691 [Thread-54:3648] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], 'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:13:35,560 [Thread-56:6812] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册'], 'password': ['密码不能全是数字'], 'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:13:38,092 [Thread-57:8620] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册'], 'password': ['密码不能全是数字'], 'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:13:38,951 [Thread-58:1168] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册'], 'password': ['密码不能全是数字'], 'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:13:39,811 [Thread-59:7688] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册'], 'password': ['密码不能全是数字'], 'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:13:40,662 [Thread-60:7428] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'username': ['用户名已注册'], 'password': ['密码不能全是数字'], 'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:14:42,741 [Thread-67:3404] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], 'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:14:48,417 [Thread-68:8888] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'password': ['密码不能全是数字'], 'mobile_captcha': ['这个字段是必填项。'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:15:53,828 [Thread-70:4052] [account:64] [views:post] [DEBUG]- 新用户注册成功！
+2018-08-27 15:15:53,902 [Thread-70:4052] [account:68] [views:post] [DEBUG]- 新用户登录成功
+2018-08-27 15:15:53,902 [Thread-70:4052] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 200, 'msg': '注册成功'}
+2018-08-27 15:20:34,212 [Thread-118:4384] [account:116] [views:get] [DEBUG]- 退出系统!
+2018-08-27 15:20:58,537 [Thread-125:3192] [account:102] [views:post] [ERROR]- tiku登录成功
+2018-08-27 15:27:07,553 [Thread-3:9180] [account:118] [views:get] [DEBUG]- 退出系统!
+2018-08-27 15:27:57,087 [Thread-7:7364] [account:104] [views:post] [ERROR]- ricardolh登录成功
+2018-08-27 15:28:21,061 [Thread-11:7268] [account:118] [views:get] [DEBUG]- 退出系统!
+2018-08-27 15:29:07,034 [Thread-20:4144] [account:64] [views:post] [DEBUG]- 新用户注册成功！
+2018-08-27 15:29:07,103 [Thread-20:4144] [account:68] [views:post] [DEBUG]- 新用户登录成功
+2018-08-27 15:29:07,103 [Thread-20:4144] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 200, 'msg': '注册成功'}
+2018-08-27 15:34:05,105 [Thread-1:3404] [account:118] [views:get] [DEBUG]- 退出系统!
+2018-08-27 15:34:35,826 [Thread-13:7348] [account:64] [views:post] [DEBUG]- 新用户注册成功！
+2018-08-27 15:34:35,912 [Thread-13:7348] [account:68] [views:post] [DEBUG]- 新用户登录成功
+2018-08-27 15:34:35,912 [Thread-13:7348] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 200, 'msg': '注册成功'}
+2018-08-27 15:34:50,217 [Thread-16:8540] [account:118] [views:get] [DEBUG]- 退出系统!
+2018-08-27 15:35:16,994 [Thread-25:7696] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'mobile': ['手机号已绑定'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:35:19,006 [Thread-26:8120] [account:78] [views:post] [DEBUG]- 用户注册结果：{'status': 402, 'msg': {'mobile': ['手机号已绑定'], '__all__': ['两次密码不一致']}}
+2018-08-27 15:43:37,392 [Thread-11:5432] [account:104] [views:post] [ERROR]- tiku 登录成功

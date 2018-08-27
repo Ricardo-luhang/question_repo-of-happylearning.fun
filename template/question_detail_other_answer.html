@@ -1,0 +1,40 @@
+{% load staticfiles %}
+<div class="timeline-messages">
+  {% for item in other_answer %}
+  <!-- Comment -->
+  <div class="msg-time-chat">
+      <a href="#" class="message-img"><img class="avatar" src="{% static 'img/chat-avatar.jpg' %}" alt=""></a>
+      <div class="message-body msg-in">
+          <span class="arrow"></span>
+          <div class="text">
+              <p class="attribution"><a href="#">{{ item.user.username }}</a> 16 小时前  点赞、</p>
+              <p>{{ item.answer }}</p>
+              <a class="glyphicon glyphicon-heart{% if not item.collect_status %}-empty{% endif %}" id="answer-id{{ item.id }}" aria-hidden="true" href="javascript:void(0);" onclick="collection({{ item.id }})">收藏({{ item.answer_collection_set.count }})</a>
+          </div>
+      </div>
+  </div>
+  <!-- /comment -->
+  {% endfor %}
+</div>
+<script>
+
+     function collection(id) {
+            $.ajax({
+                url: '/apis/answer/collection/' + id + '/',
+                type: 'GET',
+                dataType:'json',
+                success: function (data) {
+                    if (data.mes == 'success') {
+                        myid = $("#answer-id"+ id);
+                        myid.attr("class", "glyphicon glyphicon-heart");
+                        myid.text('收藏(' + data.collection_num + ')')
+                    }
+                    else {
+                        myid = $("#answer-id"+ id);
+                        myid.attr("class", "glyphicon glyphicon-heart-empty");
+                        myid.text('收藏(' + data.collection_num + ')')
+                    }
+                }
+            });
+        }
+</script>

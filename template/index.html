@@ -1,0 +1,125 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block content %}
+
+    <aside class="profile-info col-lg-9">
+        <!--features carousel start-->
+        <section class="panel">
+              <div class="flat-carousal">
+                  <div id="owl-demo" class="owl-carousel owl-theme">
+                      <div class="item">
+                          <h1>Flatlab is new model of admin dashboard for happy use</h1>
+                          <div class="text-center">
+                              <a href="javascript:;" class="view-all">View All</a>
+                          </div>
+                      </div>
+{#                      <div class="item">#}
+{#                          <h1>Fully responsive and build with Bootstrap 3.0</h1>#}
+{#                          <div class="text-center">#}
+{#                              <a href="javascript:;" class="view-all">View All</a>#}
+{#                          </div>#}
+{#                      </div>#}
+{#                      <div class="item">#}
+{#                          <h1>Responsive Frontend is free if you get this.</h1>#}
+{#                          <div class="text-center">#}
+{#                              <a href="javascript:;" class="view-all">View All</a>#}
+{#                          </div>#}
+{#                      </div>#}
+                  </div>
+              </div>
+{#              <div class="panel-body">#}
+{#                  <ul class="ft-link">#}
+{#                      <li class="active">#}
+{#                          <a href="javascript:;">#}
+{#                              <i class="icon-reorder"></i>#}
+{#                              Sales#}
+{#                          </a>#}
+{#                      </li>#}
+{#                      <li>#}
+{#                          <a href="javascript:;">#}
+{#                              <i class=" icon-calendar-empty"></i>#}
+{#                              promo#}
+{#                          </a>#}
+{#                      </li>#}
+{#                      <li>#}
+{#                          <a href="javascript:;">#}
+{#                              <i class=" icon-camera"></i>#}
+{#                              photo#}
+{#                          </a>#}
+{#                      </li>#}
+{#                      <li>#}
+{#                          <a href="javascript:;">#}
+{#                              <i class=" icon-circle"></i>#}
+{#                              other#}
+{#                          </a>#}
+{#                      </li>#}
+{#                  </ul>#}
+{#              </div>#}
+          </section>
+        <!--features carousel end-->
+        
+        <section class="panel">
+              <header class="panel-heading">
+                  最新动态
+              </header>
+              <div class="panel-body">
+                  <div class="timeline-messages">
+                      {% for answer in recent_answer %}
+                      <!-- Comment -->
+                      <div class="msg-time-chat">
+                          <img class="avatar" src="{{ MEDIA_URL }}{{ answer.user.avator_sm }}" alt="">
+                          <div class="message-body {% if forloop.counter|divisibleby:2 %}msg-in{% else %}msg-out{% endif %}">
+                              <span class="arrow"></span>
+                              <div class="text">
+                                  <p class="attribution"><a href="#">{{ answer.user.username }}</a>{{ answer.last_modify }}</p>
+                                  <p>回答了<a href="{% url 'repo:question_detail' answer.question.id %}">{{ answer.question.title }}</a></p>
+                              </div>
+                          </div>
+                      </div>
+                      <!-- /comment -->
+                      {% endfor %}
+                  </div>
+              </div>
+          </section>
+
+           <!--最近刷题的同学 start-->
+          <section class="panel">
+                <header class="panel-heading">
+                  最近刷题的同学
+                </header>
+                <div class="panel-body">
+                    {% for user in userlist %}
+                     <div class="task-thumb">
+                         <img src="{{ user.avator_sm.url }}" alt="">
+                         <div class="clearfix"></div>
+                         <a href="#">{{ user.username }}</a>
+                    </div>
+                    {% endfor %}
+                </div>
+          </section>
+          <!--custom chart end-->
+    </aside>
+
+{% endblock %}
+
+{% block load_js %}
+  <script src="{% static 'js/owl.carousel.js' %}" ></script>
+  <script>
+
+      //owl carousel
+
+      $(document).ready(function() {
+          $("#owl-demo").owlCarousel({
+              navigation : true,
+              slideSpeed : 300,
+              paginationSpeed : 400,
+              singleItem : true
+
+          });
+      });
+  </script>
+{% endblock %}
+
+{% block load_css %}
+       <link rel="stylesheet" href="{% static 'css/owl.carousel.css' %}" type="text/css">
+{% endblock %}

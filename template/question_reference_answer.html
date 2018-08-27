@@ -1,0 +1,17 @@
+{% load staticfiles %}
+<div class="timeline-messages">
+  {% for item in reference_answer %}
+  <!-- Comment -->
+  <div class="msg-time-chat">
+      <a href="#" class="message-img"><img class="avatar" src="{% static 'img/chat-avatar.jpg' %}" alt=""></a>
+      <div class="message-body msg-in">
+          <span class="arrow"></span>
+          <div class="text">
+              <p class="attribution"><a href="#">{{ item.user.username }}</a> 16 小时前  点赞、</p>
+              <p>{{ item.answer }}</p>
+          </div>
+      </div>
+  </div>
+  <!-- /comment -->
+  {% endfor %}
+</div>

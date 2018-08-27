@@ -1,0 +1,40 @@
+{% extends 'profile_base.html' %}
+{% block right %}
+    <div class="col-lg-9">
+      <div class="panel">
+          <div class="panel-body">
+              <h4>修改密码</h4>
+              <hr/>
+              <div class="row col-md-7">
+                 <form class="form-horizontal" role="form" action="{% url 'center:changepwd' %}" method="post">
+                     {% csrf_token %}
+                      <div class="form-group">
+                          <label for="inputPasswordOld" class="col-lg-2 control-label">旧密码</label>
+                          <div class="col-lg-10">
+                              <input type="password" name="old_passwd" class="form-control" id="inputPasswordOld" placeholder="旧密码">
+                          </div>
+                      </div>
+                      <div class="form-group">
+                          <label for="inputPasswordNew1" class="col-lg-2 control-label">新密码</label>
+                          <div class="col-lg-10">
+                              <input type="password" name="new_passwd" class="form-control" id="inputPasswordNew1" placeholder="新密码">
+                          </div>
+                      </div>
+                      <div class="form-group">
+                          <label for="inputPasswordNew1" class="col-lg-2 control-label">新密码</label>
+                          <div class="col-lg-10">
+                              <input type="password" name="new_passwd1" class="form-control" id="inputPasswordNew2" placeholder="新密码2">
+                          </div>
+                      </div>
+                     <div class="error">{{ ret_mes.mes }}</div>
+                      <div class="form-group">
+                          <div class="col-lg-offset-2 col-lg-10">
+                              <button type="submit" class="btn btn-danger">提交</button>
+                          </div>
+                      </div>
+                 </form>
+              </div>
+          </div>
+      </div>
+  </div>
+{% endblock %}
